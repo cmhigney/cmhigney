@@ -1,16 +1,13 @@
-## Hi there 👋
+# About me
 
-<!--
-**cmhigney/cmhigney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I am a Junior at the Uiversity of Rhode Island studying computer science
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+- 🔭 I’m currently working on finding an internship for the summer of 2025
+- 💬 Ask me about computer science & fishing
+- 📫 How to reach me: cmhigney@uri.edu, cmhigney@gmail.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I have a french bulldog named Winston
+
