@@ -1,7 +1,7 @@
 # About me
 
 
-I am a Senior at the Uiversity of Rhode Island studying computer science
+I am a Senior at the Uiversity of Rhode Island pursuing a BS in Computer Science
 
 - 💬 Ask me about computer science & golfing
 - 📫 How to reach me: cmhigney@uri.edu, cmhigney@gmail.com
