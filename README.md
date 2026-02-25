@@ -8,11 +8,7 @@ I am a Senior at the Uiversity of Rhode Island pursuing a BS in Computer Science
 - ⚡ Fun fact: I have a french bulldog named Winston
 
 Current Project(s) I am working on:
-- Eventure - Social Event Discovery App (Team Project - In Progress) [https://github.com/vpaulino26/Local-Event-Discovery-Social-Planner]
-A mobile application built with FlutterFlow and Dart that helps users discover local events and coordinate plans with friends. The app combines event discovery, social networking, and shared calendar functionality in one place. Users can browse events, connect with friends, create group calendars, and coordinate attendance together, solving the common problem of scattered event information and difficult group planning.
-- Current Focus: Building user authentication flow - signup, login, and account creation pages
-- Tech Stack: FlutterFlow (visual builder), Dart (Flutter's programming language), Firebase (backend)
-- My Role: Frontend development and UI/UX implementation
+- Owezy - receipt splitting application for IOS and Android
   
 
 Planned Project(s):
